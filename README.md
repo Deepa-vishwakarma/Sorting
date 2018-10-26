@@ -3,4 +3,4 @@ codes of various sorting in c#
 
 Hi friends,
 
-Deepa here, I like solving problems.
+Deepa here, I like to solve problems.
