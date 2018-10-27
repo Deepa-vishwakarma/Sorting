@@ -1,0 +1,10 @@
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\bin\Release\Sort.exe.config
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\bin\Release\Sort.exe.manifest
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\bin\Release\Sort.application
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\bin\Release\Sort.exe
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\bin\Release\Sort.pdb
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\obj\Release\Sort.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\obj\Release\Sort.exe.manifest
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\obj\Release\Sort.application
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\obj\Release\Sort.exe
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\obj\Release\Sort.pdb

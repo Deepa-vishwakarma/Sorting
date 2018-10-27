@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2012\Projects\Sort\Sort\bin\Debug\Sort.exe.config
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\bin\Debug\Sort.exe
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\bin\Debug\Sort.pdb
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\obj\Debug\Sort.exe
+C:\Users\asus\Documents\Visual Studio 2012\Projects\Sort\Sort\obj\Debug\Sort.pdb
